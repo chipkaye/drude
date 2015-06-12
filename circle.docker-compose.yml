@@ -90,4 +90,4 @@ browser:
   links:
     - web
   ports:
-    - "4444:4444"
+    - "4444"
